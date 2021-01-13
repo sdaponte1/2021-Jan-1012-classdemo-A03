@@ -28,6 +28,9 @@ namespace FirstSample
             Console.WriteLine("   Cut your bread");
             Console.WriteLine("   Carefully place the mix from the pan into the bread");
             Console.WriteLine("   Now, enhoy your perfectly coocked sandwich");
+
+            string myName = "Simao";
+            Console.WriteLine($"My name is :\t{myName}");
 ;        }
     }
 }
